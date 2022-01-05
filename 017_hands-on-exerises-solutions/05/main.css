@@ -1,0 +1,10 @@
+div {
+    width: 400px;
+    height: 350px;
+    background-color: darksalmon;
+    border-radius: 80%;
+    background-image: url("../../000_img/kitty.jpg");
+    background-size: length;
+    background-repeat: no-repeat;
+
+}
