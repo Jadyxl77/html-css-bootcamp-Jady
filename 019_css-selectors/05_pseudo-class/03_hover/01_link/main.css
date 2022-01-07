@@ -1,0 +1,25 @@
+body{
+    font-size: 36px;
+    text-align: center;
+    border:10px solid darkred;
+}
+
+/* order matters*/
+/*LVHA*/
+/*Link Visited Hover Active*/
+
+a:link{
+    color: forestgreen;
+}
+
+a:visited{
+    color:black;
+}
+
+a:hover{
+    color:mediumvioletred;
+}
+
+a:active{
+    color:lightgoldenrodyellow;
+}

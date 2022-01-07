@@ -1,0 +1,11 @@
+.emphasize{
+    color: rebeccapurple;
+}
+
+[src]{
+    border:10px dashed darkred;
+}
+
+[href]{
+    border:10px double darkolivegreen;
+}

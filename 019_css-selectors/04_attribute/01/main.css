@@ -1,0 +1,8 @@
+.emphasize{
+    color: rebeccapurple;
+}
+
+[contenteditable]{
+    color: rebeccapurple;
+    border: 1px dashed black;
+}
