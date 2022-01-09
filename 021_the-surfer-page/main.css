@@ -1,4 +1,23 @@
+html {
+    background-color: antiquewhite;
+}
+
+body{
+    width:60%;
+    margin: 0 auto;
+    background-color: floralwhite;
+    border: 10px dashed navajowhite;
+}
 img{
-    border: 20px yellow;
-    border-radius: 80%;
+    border: 5px ridge lightpink;
+    border-radius: 100%;
+    margin: 0 auto;
+    display: block;
+}
+
+#primary{
+    color: #369d60;
+}
+#secordary{
+    color: #9ac255;
 }
