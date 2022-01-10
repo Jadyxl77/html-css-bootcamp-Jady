@@ -1,0 +1,22 @@
+body{
+    width: 65%;
+    background-color: silver;
+    margin: 0 auto;
+    padding-top: 80px;
+}
+p{
+    margin: auto;
+}
+
+p::first-letter{
+    font-family: ui-rounded;
+    font-size: 36px;
+    line-height: 1.5;
+}
+
+
+p::first-line{
+    font-family: ui-rounded;
+    color: peru;
+    font-weight: initial;
+}
