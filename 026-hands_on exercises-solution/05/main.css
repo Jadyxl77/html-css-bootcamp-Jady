@@ -1,0 +1,8 @@
+html {
+    text-transform: uppercase;
+    font-style: italic;
+    font-family:'Titillium Web', sans-serif;
+}
+section{
+    letter-spacing: 1rem;
+}

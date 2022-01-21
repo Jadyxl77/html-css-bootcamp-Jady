@@ -1,9 +1,14 @@
 h1 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 8rem;
+    font-size: 4rem;
     font-weight: normal;
     font-variant: small-caps;
     line-height: 1.5;
 
     border: 1px dashed hotpink;
+}
+
+span{
+    font-size: 10rem;
+    font-weight: lighter;
 }
