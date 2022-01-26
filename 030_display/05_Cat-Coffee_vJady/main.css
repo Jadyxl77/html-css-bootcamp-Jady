@@ -1,0 +1,19 @@
+*{
+    font-family: 'Comforter', cursive;
+    background-color: cornsilk;
+    font-size:70px;
+}
+div{
+    width: 65%;
+    border: 5px dashed yellow;
+    display: inline-block;
+    padding:10px;
+}
+
+li{
+    list-style-type: armenian;
+}
+
+p{
+    display: inline-table;
+}
